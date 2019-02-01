@@ -1,0 +1,34 @@
+{
+
+    "time_test": "2013-11-18 11:55",
+
+    "you": {
+        "timezone": "America/New_York",
+        "show": 1
+    },
+
+    "users": {
+
+
+        "user1": {
+            "timezone": "Europe/Berlin",
+            "show": 1,
+            "isFriend": true
+        },
+
+        "user2": {
+            "timezone": "America/Los_Angeles",
+            "show": 2,
+            "isFriend": false
+        },
+
+        "user3": {
+            "timezone": "Asia/Shanghai",
+            "show": 0,
+            "isFriend": true
+        }
+
+
+    }
+
+}
