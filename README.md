@@ -1,5 +1,5 @@
 # tiny-timezone-example
-Using the momentjs timezone on your apps
+Using the Momentjs timezone on your apps or servers
 
 ## Configs
 
